@@ -1,0 +1,19 @@
+colors:
+- [143, 0, 254]
+- [255, 45, 0]
+- [0, 238, 196]
+- [219, 255, 0]
+- [174, 255, 1]
+- [254, 154, 3]
+- [1, 10, 254]
+- [2, 194, 255]
+- [238, 240, 242]
+- [254, 92, 0]
+- [255, 0, 121]
+- [7, 236, 123]
+- [98, 0, 255]
+names: [Enemy, Object, Pistol, Rifle, Shotgun, Bat, Bullet, Bullet Trail, Submachine
+    Gun, Railgun, Knife, Gold Club, Shuriken]
+nc: 13
+train: ../365298_aa/images/train
+val: ../365298_aa/images/val

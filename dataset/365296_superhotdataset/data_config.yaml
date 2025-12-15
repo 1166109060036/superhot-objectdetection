@@ -1,0 +1,20 @@
+colors:
+- [254, 92, 0]
+- [255, 245, 0]
+- [143, 0, 254]
+- [219, 0, 255]
+- [255, 0, 121]
+- [255, 199, 5]
+- [254, 154, 3]
+- [98, 0, 255]
+- [219, 0, 255]
+- [143, 0, 254]
+- [255, 0, 121]
+- [255, 199, 5]
+- [143, 0, 254]
+- [2, 194, 255]
+names: [Enemy, Object, Pistol, Rifle, Shotgun, Katana, Bat, Bullet, Bullet Trail,
+  Submachine Gun, Railgun, Knife, Golf Club, Shuriken]
+nc: 14
+train: ../365296_superhotdataset/images/train
+val: ../365296_superhotdataset/images/val
