@@ -180,9 +180,7 @@ t2.start()
 while True:
 
     if result_frame is not None:
-
-        display_frame = cv2.resize(result_frame, (400, 300))
-        cv2.imshow("SUPERHOT DETECTOR", display_frame)
+        cv2.imshow("SUPERHOT DETECTOR", result_frame)
 
     if cv2.waitKey(1) & 0xFF == 27:
         running = False
